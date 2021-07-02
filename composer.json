@@ -1,0 +1,8 @@
+{
+    "name": "4stock/cadastro",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
